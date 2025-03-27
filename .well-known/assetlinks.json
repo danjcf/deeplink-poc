@@ -8,5 +8,105 @@
           "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
         ]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.zafe.response",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.eliotprotect.mobile",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "se.viser.viserandroid",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "se.telenta.symphoni",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "se.sensec.personcentral",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.doro.connectressurs",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "no.hepro.respons",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "se.great.security",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.nesk.response",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mediratt.dosell",
+        "sha256_cert_fingerprints": [
+          "FD:BD:89:DA:E5:02:F3:BD:80:67:EC:96:C3:CB:25:AB:65:89:0C:29:4A:C1:DB:FB:B2:14:CF:EE:C9:10:A7:20"
+        ]
+      }
     }
   ]
